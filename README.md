@@ -59,21 +59,6 @@ Linear regression is a statistical method used to model the relationship between
 - **`calculate_r_squared(x, y, w, b)`**:
   - Calculates the R² score to evaluate the model's accuracy.
 
-## How to Run
-
-1. Clone or download this repository.
-2. Install required dependencies (if any), such as `pandas`, `numpy`, `matplotlib`, and `seaborn`.
-3. Load your dataset or use the example dataset provided.
-4. Run the script to train the model and view the accuracy.
-
-```bash
-python linear_regression.py
-```
-
 ## Results
 
-The model achieves an accuracy (R² score) of **65.5% For single linear regression and 85% for multiple linear regression**. This can be improved by adjusting the learning rate, increasing iterations, or using more sophisticated techniques like multiple-variable regression.
-
----
-
-You can add more details based on the dataset and specific usage instructions. Let me know if you'd like any modifications!
+The model achieves an accuracy (R² score) of **65.5% For single linear regression and 85% for multiple linear regression**. 
